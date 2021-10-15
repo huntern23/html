@@ -1,0 +1,17 @@
+body{
+background: black;
+}
+.strong{
+    text-align: center;
+    font-size: xx-large;
+    color: aliceblue;
+}
+.title{
+    text-align: center;
+    color: red;
+    font-size: xxx-large;
+}
+.ulall{
+    color: red;
+    font-size: 30px;
+}
