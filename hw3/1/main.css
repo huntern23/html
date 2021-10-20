@@ -1,0 +1,44 @@
+.wrap{
+    height: 645px;
+    width: 620px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.block{
+
+    display:flex;
+    column-gap: 10px;
+}
+.a{
+
+    border: 5px solid darkgrey;
+    padding: 5px;
+    font-size: 120px;
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    margin-bottom: 10px;
+
+}
+.b{
+
+    border: 5px solid darkgrey;
+    padding: 5px;
+    font-size: 130px;
+    text-align: center;
+
+    width: 600px;
+    height: 300px;
+
+}
+.c{
+    border: 5px solid darkgrey;
+    padding: 5px;
+    font-size: 120px;
+    text-align: center;
+    width: 150px;
+    height: 300px;
+
+
+}

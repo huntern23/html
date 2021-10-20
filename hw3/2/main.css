@@ -1,0 +1,39 @@
+.header{
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+    width: 600px;
+    height: 100px;
+    background: #505080;
+}
+.nav{
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+    width: 600px;
+    height: 100px;
+    background: #2c2c56;
+    Padding: 50px 0;
+}
+.block{
+    display: flex;
+}
+.main{
+
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+    height: 300px;
+    width: 450px;
+    background: #4894d2;
+
+
+}
+.aside{
+    font-size: 45px;
+    color: aliceblue;
+    text-align: center;
+    height: 300px;
+    width: 150px;
+    background: #5454bb;
+}
