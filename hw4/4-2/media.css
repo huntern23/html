@@ -1,0 +1,49 @@
+@media screen and (min-width: 1200px) {
+    .header {
+        width: 1200px;
+    }
+
+    .wrap3 {
+        width: 1200px;
+    }
+    .main2{
+        width: 1200px;
+    }
+    .wrap2{
+        width: 1200px;
+    }
+    .block1{
+        width: 1150px;
+        height: 220px;
+    }
+    .wrap3{
+        width: 1200px;
+    }
+    .wrap{
+        width: 1200px;
+    }
+    .block2{
+        column-gap: 200px;
+    }
+    .textblock{
+        margin-left: 37px;
+        column-gap: 240px;
+    }
+    .wrap4{
+        width: 1200px;
+    }
+.box4{
+    width: 400px;
+}
+    .box3 {
+    width: 400px;
+}
+    .block3{
+        column-gap: 200px;
+        margin-left: 150px;
+    }
+    .block5{
+        justify-content: flex-end;
+        margin-right: 50px;
+    }
+}
