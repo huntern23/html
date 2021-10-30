@@ -49,6 +49,11 @@
     margin-top: 630px;
 }
 .main .button{
-    margin-left: 130px;
+    margin-left: 0;
+}
+.bn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 }
