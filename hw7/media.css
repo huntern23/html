@@ -1,0 +1,59 @@
+@media screen and (max-width: 400px) {
+    .menu {
+        display: none;
+    }
+
+    .logo img {
+        width: 50px;
+    }
+    .wrapper{
+        max-width: 400px;
+        padding: 0 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .header__top{
+        padding-top: 20px ;
+    }
+    .nav__btn_mobile{
+        display: flex;
+    }
+    .title h2{
+
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .title h1{
+
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .title p::before,
+    .title p::after{
+        display: none;
+    }
+    .title{
+        text-align: center;
+    }
+.block{
+    display: block;
+}
+.box{
+    position: absolute;
+    margin-left: 30px;
+}
+.box2{
+    margin-top: 250px;
+}
+.box3{
+    margin-top: 630px;
+}
+.main .button{
+    margin-left: 0;
+}
+.bn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
