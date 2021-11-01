@@ -66,6 +66,7 @@ table {
     text-decoration: none;
 }
 .menu{
+    display: flex;
     height: 70px;
     column-gap: 35px;
 }
@@ -135,6 +136,7 @@ table {
     margin-left: 200px;
 }
 .nav__btn_mobile{
+    display: none;
     width: 30px;
     flex-direction: column;
     row-gap: 4px;

@@ -1,8 +1,7 @@
 @media screen and (max-width: 400px) {
-    .menu {
+    .menu{
         display: none;
     }
-
     .logo img {
         width: 50px;
     }
@@ -55,5 +54,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.nav__btn_mobile{
+    display: flex;
 }
 }
