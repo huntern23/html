@@ -1,0 +1,437 @@
+@media screen and (max-width: 340px) {
+    .header__top {
+        width: 340px;
+    }
+
+    .text46 {
+        display: none;
+    }
+
+    .text {
+        margin-left: 15px;
+    }
+
+    .textblock1 {
+        justify-content: revert;
+        margin-left: 0;
+        width: 340px;
+
+    }
+
+    .textblock2 {
+        display: none;
+    }
+
+    .eshe {
+        display: block;
+    }
+
+    .img9 {
+        display: none;
+    }
+
+    .header__main {
+        width: 340px;
+    }
+
+    .header__block1 {
+        column-gap: 0;
+        width: 340px;
+
+    }
+
+    .text4 {
+        display: none;
+    }
+
+    .mobile_header {
+        margin-left: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mobile_box1 {
+
+        display: block;
+        flex-direction: row-reverse;
+        width: 70%;
+    }
+
+    .text2 {
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        color: #0F2438;
+    }
+
+    .text6 {
+        text-align: right;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        color: #0F2438;
+    }
+
+    .number {
+        margin-right: 10px;
+    }
+
+    .box {
+        margin-left: 30px;
+        margin-bottom: 10px;
+        width: 132px;
+        height: 24px;
+    }
+
+    .text5 {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .user {
+        display: none;
+    }
+
+    .liked {
+        display: none;
+    }
+
+    .cart {
+        display: none;
+    }
+
+    .box2 {
+        margin-left: 20px;
+        width: 203px;
+        height: 34px;
+        background: #F4F5FA;
+        border-radius: 4px 0 0 4px;
+    }
+
+    .box3 {
+        width: 34px;
+        height: 34px;
+        background: #005BB9;
+        border-radius: 0 4px 4px 0;
+
+    }
+
+    .search_text {
+        display: none;
+    }
+
+    .text8 {
+        display: none;
+    }
+
+    .katalog {
+        width: 34px;
+        height: 34px;
+        background: #005BB9;
+        border-radius: 4px;
+    }
+
+    .line3 {
+        display: none;
+    }
+
+    .text9 {
+        display: none;
+    }
+
+    .text47 {
+        display: block;
+    }
+
+    .img10 {
+        display: block;
+    }
+
+    .block {
+        width: 290px;
+        height: 195px;
+        margin-left: 25px;
+        background: url("image/background_mobile.png");
+    }
+
+    .text41 {
+        font-size: 16px;
+        line-height: 19px;
+        margin-top: 20px;
+    }
+
+    .block_box1 {
+        margin-left: 0;
+    }
+
+    .main_block {
+        display: block;
+    }
+
+    .block1 {
+        display: flex;
+        margin-left: 15px;
+        column-gap: 10px;
+
+    }
+
+    .text17 {
+        margin-top: 10px;
+        margin-left: 40px;
+    }
+
+    .text18 {
+        margin-top: 12px;
+    }
+
+    .img8 {
+        display: none;
+    }
+
+    .img11 {
+        display: block;
+    }
+
+    .block_box1 {
+        margin-left: 16px;
+    }
+
+    .text43 {
+        font-size: 20px;
+        line-height: 23px;
+        margin-right: 0;
+
+    }
+
+    .price {
+        display: block;
+    }
+
+    .image_block {
+        margin-left: 0;
+    }
+
+    .text42 {
+        font-size: 10px;
+        line-height: 12px;
+        margin-bottom: 15px;
+    }
+
+    .basket {
+        width: 124px;
+        height: 34px;
+        margin-top: 5px;
+    }
+
+    .text44 {
+        padding-top: 0;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .block2 {
+        margin-left: 15px;
+    }
+
+    .text19 {
+        margin-top: 0;
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .text20 {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .box5 {
+        width: 250px;
+        height: 126px;
+    }
+
+    .img13 {
+        display: none;
+    }
+
+    .img12 {
+        display: block;
+    }
+
+    .text20 {
+        margin-bottom: 5px;
+    }
+
+    .tex21 {
+        width: 72px;
+        height: 24px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .img2 {
+        margin-left: 26px;
+    }
+
+    .compilations {
+        margin-left: 15px;
+        width: 164px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 16px;
+
+    }
+
+    .stocks {
+        width: 82px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .buy {
+        display: none;
+    }
+
+    .main3_block {
+        margin-left: 10px;
+        margin-bottom: 0;
+    }
+
+    .img14 {
+        width: 154px;
+        height: 121px;
+    }
+
+    .img15 {
+        margin-top: 25px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .basket {
+        width: 110px;
+        height: 35px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .text24 {
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .line4 {
+        display: none;
+    }
+
+    .img7 {
+        display: none;
+    }
+
+    .img6 {
+        margin-top: 10px;
+        margin-left: 11px;
+        margin-right: 40px;
+    }
+
+    .img16 {
+        display: none;
+    }
+
+    .button_show {
+        margin-bottom: 0;
+    }
+
+    .box6 {
+        margin-left: 15px;
+        margin-bottom: 44px;
+    }
+
+    .box7 {
+        margin-left: 15px;
+        margin-bottom: 44px;
+    }
+
+    .box8 {
+        margin-left: 15px;
+        margin-bottom: 44px;
+    }
+
+    .box9 {
+        margin-left: 15px;
+        margin-bottom: 70px;
+    }
+
+    .main4_boxes {
+        display: inline;
+    }
+
+    .dates {
+        display: none;
+    }
+
+    .text27 {
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+
+    .block3 {
+        display: block;
+    }
+
+    .main5 {
+        height: 100%;
+    }
+
+    .box10 {
+        padding-left: 15px;
+    }
+
+    .box11 {
+        padding-left: 15px;
+    }
+
+    .box12 {
+        padding-left: 15px;
+    }
+
+    .box16 {
+        display: block;
+    }
+
+    .box13_block {
+        margin-top: 25px;
+        margin-left: 0;
+    }
+
+    .box13 {
+        padding-left: 15px;
+    }
+    .box14{
+        display: block;
+    }
+    .box15{
+        margin-left: 15px;
+    }
+    .text38{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .text39{
+        margin-left: 10px;
+    }
+    .box14_button{
+        width: 104px;
+        height: 34px;
+    }
+    .box14_box{
+        width: 186px;
+        height: 34px;
+    }
+    .text40{
+        margin-top: 5px;
+    }
+}
+
+
